@@ -1,0 +1,13 @@
+{
+  "name": "naver-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "puppeteer": "^2.1.1"
+  }
+}
