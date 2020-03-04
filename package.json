@@ -7,6 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "dependencies": {
+    "mariadb": "^2.2.0",
     "nodemon": "^2.0.2",
     "puppeteer": "^2.1.1"
   }
