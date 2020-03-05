@@ -55,6 +55,7 @@ const BASE_CATEGORY_URL =
       'h2.category_tit',
       h2 => h2.textContent
     )
+
     console.log(topCatTitle)
 
     // Find <a> tags from the current page are having a <strong> tag.
